@@ -1,16 +1,11 @@
-# calculadora_imc
+# Conversor de IMC
 
-A new Flutter project.
+Aplicativo para estudos de lógica
 
-## Getting Started
+## 📸 Abaixo imagens relacionadas ao projeto: Modelo do emulador PIXEL 5 API 30
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/65426690/176060382-abbb0287-0983-48dd-8bf5-12ed0a60c36f.png" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/65426690/176060441-a183c109-550b-4c43-aaaf-69809c9542f0.png" width="200">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚧 Status do projeto: 🚧 100% 🥇
